@@ -1,0 +1,52 @@
+{
+    "name": "Heartbeat",
+    "description": "Build powerful realtime and search experiences.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20073-heartbeat.jpg",
+    "tags": [
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/heartbeat\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Heartbeat",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20073-heartbeat.jpg",
+            "humanURL": "https:\/\/heartbeat.appbase.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/heartbeat-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/appbase"
+        },
+        {
+            "type": "Email",
+            "url": "info@appbase.io"
+        },
+        {
+            "type": "Email",
+            "url": "pass@scalr.api.appbase.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/appbaseio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/heartbeat.appbase.io\/"
+        }
+    ]
+}
